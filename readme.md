@@ -1,8 +1,3 @@
-#이것은 파일을 수정되었습니다.
+#깃 공부에 도움될만한 것
 
-
-## 아네 그렇군요 
-
-
-
-## 수정했습니다. 
+[commit 작명방법](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
